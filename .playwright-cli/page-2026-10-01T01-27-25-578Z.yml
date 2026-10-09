@@ -1,0 +1,447 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e5]:
+    - generic [ref=f1e7]:
+      - generic [ref=f1e10]:
+        - heading "Welcome John Deo" [level=4] [ref=f1e11]
+        - img "hand-gif" [ref=f1e12]
+      - list [ref=f1e14]:
+        - listitem [ref=f1e15]:
+          - generic [ref=f1e16] [cursor=pointer]
+        - listitem [ref=f1e19] [cursor=pointer]:
+          - generic [ref=f1e20]: "46"
+        - listitem [ref=f1e24] [cursor=pointer]:
+          - generic [ref=f1e25]: 
+    - generic [ref=f1e26]:
+      - generic [ref=f1e27]:
+        - generic [ref=f1e28]:
+          - link [ref=f1e29] [cursor=pointer]:
+            - /url: https://jtc-demo.zetasbapp.com/dashboard
+            - img "site-logo" [ref=f1e30]
+          - text: 
+          - generic [ref=f1e31] [cursor=pointer]
+          - generic [ref=f1e37]: JTC ERP & CRM
+        - navigation [ref=f1e38]:
+          - list [ref=f1e40]:
+            - generic [ref=f1e45]:
+              - text: 
+              - listitem [ref=f1e46]:
+                - heading "Overview" [level=6] [ref=f1e48]
+              - listitem [ref=f1e49]:
+                - link "Executive Dashboard" [ref=f1e50] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/dashboard/executive
+                  - text: 
+              - listitem [ref=f1e54]:
+                - link "Finance Dashboard" [ref=f1e55] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/dashboard/finance
+                  - text: 
+              - listitem [ref=f1e59]:
+                - link "Department Dashboard" [ref=f1e60] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/dashboard/department
+                  - text: 
+              - listitem [ref=f1e64]:
+                - link "Compliance Dashboard" [ref=f1e65] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/dashboard/compliance
+                  - text: 
+              - listitem [ref=f1e69]:
+                - link "Document Search" [ref=f1e70] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/search
+                  - text: 
+              - listitem [ref=f1e74]:
+                - link "Fee Schedule" [ref=f1e75] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/price-list
+                  - text: 
+              - listitem [ref=f1e79]:
+                - heading "Job Ticket" [level=6] [ref=f1e81]
+              - listitem [ref=f1e82]:
+                - link "Job Ticket " [ref=f1e83] [cursor=pointer]:
+                  - /url: javascript:void(0)
+                  - generic [ref=f1e86]: Job Ticket
+                  - generic [ref=f1e87]: 
+              - listitem [ref=f1e89]:
+                - link "HOD Billing Approval" [ref=f1e90] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/ticket-job/hod/billing-approvals
+                  - text: 
+              - listitem [ref=f1e94]:
+                - link "Finance ATI Listing" [ref=f1e95] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/ticket-job/finance/ati-listing
+                  - text: 
+              - listitem [ref=f1e99]:
+                - link "Invoice Listing" [ref=f1e100] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/ticket-job/finance/invoice-listing
+                  - text: 
+              - listitem [ref=f1e104]:
+                - link "Receipting" [ref=f1e105] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/ticket-job/finance/receipting
+                  - text: 
+              - listitem [ref=f1e109]:
+                - link "NBSC Approval" [ref=f1e110] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/ticket-job/nbsc-approval
+                  - text: 
+              - listitem [ref=f1e114]:
+                - link "Four-Eyes Approval" [ref=f1e115] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/ticket-job/four-eyes-approval
+                  - text: 
+              - listitem [ref=f1e119]:
+                - link "Disbursement" [ref=f1e120] [cursor=pointer]:
+                  - /url: https://jtc-demo.zetasbapp.com/ticket-job/disbursements
+                  - text: 
+              - listitem [ref=f1e124]:
+                - heading "Client Management" [level=6] [ref=f1e126]
+              - listitem [ref=f1e127]:
+                - link "Client Management " [ref=f1e128] [cursor=pointer]:
+                  - /url: javascript:void(0)
+                  - generic [ref=f1e131]: Client Management
+                  - generic [ref=f1e132]: 
+              - listitem [ref=f1e134]:
+                - heading "Master Setup" [level=6] [ref=f1e136]
+              - listitem [ref=f1e137]:
+                - link "Master Setup " [ref=f1e138] [cursor=pointer]:
+                  - /url: javascript:void(0)
+                  - generic [ref=f1e141]: Master Setup
+                  - generic [ref=f1e142]: 
+              - listitem [ref=f1e144]:
+                - heading "Parameter Management" [level=6] [ref=f1e146]
+              - listitem [ref=f1e147]:
+                - link "Parameter Management " [ref=f1e148] [cursor=pointer]:
+                  - /url: javascript:void(0)
+                  - generic [ref=f1e151]: Parameter Management
+                  - generic [ref=f1e152]: 
+              - listitem [ref=f1e154]:
+                - heading "User Management" [level=6] [ref=f1e156]
+              - listitem [ref=f1e157]:
+                - link "User Management " [ref=f1e158] [cursor=pointer]:
+                  - /url: javascript:void(0)
+                  - generic [ref=f1e161]: User Management
+                  - generic [ref=f1e162]: 
+      - generic [ref=f1e165]:
+        - generic [ref=f1e167]:
+          - generic [ref=f1e168]:
+            - heading "Executive Dashboard" [level=4] [ref=f1e169]
+            - paragraph [ref=f1e170]: Company Overview & Performance
+          - button "Refresh" [ref=f1e172] [cursor=pointer]
+        - generic [ref=f1e180]:
+          - generic [ref=f1e181]: Filter By
+          - generic [ref=f1e182]:
+            - generic [ref=f1e183]: Date
+            - combobox "Date" [ref=f1e185] [cursor=pointer]:
+              - option "All Time"
+              - option "This Month (1 - 31 Oct 2026)" [selected]
+              - option "Last Month (1 - 30 Sep 2026)"
+              - option "This Quarter (1 Oct - 31 Dec 2026)"
+              - option "This Year (1 Jan - 31 Dec 2026)"
+          - generic [ref=f1e186]:
+            - generic [ref=f1e187]: Client
+            - generic [ref=f1e188]:
+              - combobox [aria-hidden] [ref=f1e189] [cursor=pointer]
+              - combobox "All Clients" [ref=f1e192] [cursor=pointer]
+          - generic [ref=f1e194]:
+            - generic [ref=f1e195]: Jurisdiction
+            - combobox "Jurisdiction" [ref=f1e197] [cursor=pointer]:
+              - option "All" [selected]
+              - option "Labuan"
+              - option "Malaysia"
+              - option "Offshore - BVI"
+              - option "Offshore - Cayman"
+              - option "Others"
+          - generic [ref=f1e198]:
+            - generic [ref=f1e199]: Department
+            - combobox "Department" [ref=f1e201] [cursor=pointer]:
+              - option "All Dept" [selected]
+              - option "Client Accounting Department (CAD)"
+              - option "Corporate Secretarial Unit (CoSec)"
+              - option "Finance"
+              - option "Marketing & Business Development (BD)"
+          - generic [ref=f1e202]:
+            - generic [ref=f1e203]: Currency
+            - combobox "Currency" [ref=f1e205] [cursor=pointer]:
+              - option "MYR" [selected]
+              - option "USD"
+              - option "SGD"
+              - option "EUR"
+              - option "GBP"
+        - generic [ref=f1e206]:
+          - generic [ref=f1e209]:
+            - heading "Revenue by Department (RM)" [level=6] [ref=f1e210]
+            - generic [ref=f1e211]: No invoiced revenue for the selected filters.
+          - generic [ref=f1e214]:
+            - heading "Collection (RM)" [level=6] [ref=f1e215]
+            - generic [ref=f1e216]:
+              - generic [ref=f1e218]:
+                - generic [ref=f1e219]: Today
+                - generic [ref=f1e220]: "0.00"
+                - text: RM
+              - generic [ref=f1e222]:
+                - generic [ref=f1e223]: This Week
+                - generic [ref=f1e224]: "0.00"
+                - text: RM
+              - generic [ref=f1e226]:
+                - generic [ref=f1e227]: This Month
+                - generic [ref=f1e228]: "0.00"
+                - text: RM
+              - generic [ref=f1e230]:
+                - generic [ref=f1e231]: This Year
+                - generic [ref=f1e232]: "0.00"
+                - text: RM
+        - generic [ref=f1e234]:
+          - heading "Invoice Aging" [level=6] [ref=f1e235]
+          - table [ref=f1e237]:
+            - rowgroup [ref=f1e238]:
+              - row [ref=f1e239]:
+                - columnheader "Aging Period" [ref=f1e240]
+                - columnheader "1-30" [ref=f1e241]
+                - columnheader "31-60" [ref=f1e243]
+                - columnheader "61-90" [ref=f1e245]
+                - columnheader "91-120" [ref=f1e247]
+                - columnheader "121-150" [ref=f1e249]
+                - columnheader "151-180" [ref=f1e251]
+                - columnheader "180 Above" [ref=f1e253]
+                - columnheader "Total" [ref=f1e255]
+            - rowgroup [ref=f1e256]:
+              - row [ref=f1e257]:
+                - cell "Outstanding (RM)" [ref=f1e258]
+                - cell "0.00" [ref=f1e259]
+                - cell "0.00" [ref=f1e260]
+                - cell "7,230.62" [ref=f1e261]
+                - cell "0.00" [ref=f1e262]
+                - cell "0.00" [ref=f1e263]
+                - cell "0.00" [ref=f1e264]
+                - cell "0.00" [ref=f1e265]
+                - cell "7,230.62" [ref=f1e266]
+              - row [ref=f1e267]:
+                - cell "% of Total" [ref=f1e268]
+                - cell "0.0%" [ref=f1e269]
+                - cell "0.0%" [ref=f1e270]
+                - cell "100.0%" [ref=f1e271]
+                - cell "0.0%" [ref=f1e272]
+                - cell "0.0%" [ref=f1e273]
+                - cell "0.0%" [ref=f1e274]
+                - cell "0.0%" [ref=f1e275]
+                - cell "100.0%" [ref=f1e276]
+              - row [ref=f1e277]:
+                - cell "No. of Invoices" [ref=f1e278]
+                - cell "0" [ref=f1e279]
+                - cell "0" [ref=f1e280]
+                - cell "4" [ref=f1e281]
+                - cell "0" [ref=f1e282]
+                - cell "0" [ref=f1e283]
+                - cell "0" [ref=f1e284]
+                - cell "0" [ref=f1e285]
+                - cell "4" [ref=f1e286]
+        - generic [ref=f1e287]:
+          - generic [ref=f1e290]:
+            - heading "Client by Risk" [level=6] [ref=f1e291]
+            - generic [ref=f1e292]:
+              - img [ref=f1e295]:
+                - generic [ref=f1e303]:
+                  - generic: Clients
+                  - generic: "4"
+              - table [ref=f1e304]:
+                - rowgroup [ref=f1e305]:
+                  - row [ref=f1e306]:
+                    - cell "Low" [ref=f1e307]
+                    - cell "0" [ref=f1e309]
+                    - cell "0%" [ref=f1e310]
+                  - row [ref=f1e311]:
+                    - cell "Medium" [ref=f1e312]
+                    - cell "1" [ref=f1e314]
+                    - cell "25%" [ref=f1e315]
+                  - row [ref=f1e316]:
+                    - cell "High" [ref=f1e317]
+                    - cell "0" [ref=f1e319]
+                    - cell "0%" [ref=f1e320]
+                  - row [ref=f1e321]:
+                    - cell "Not Rated" [ref=f1e322]
+                    - cell "3" [ref=f1e324]
+                    - cell "75%" [ref=f1e325]
+                - rowgroup [ref=f1e326]:
+                  - row [ref=f1e327]:
+                    - cell "Total" [ref=f1e328]
+                    - cell "4" [ref=f1e329]
+                    - cell "100%" [ref=f1e330]
+          - generic [ref=f1e333]:
+            - heading "Client by Department" [level=6] [ref=f1e334]
+            - generic [ref=f1e335]:
+              - img [ref=f1e338]:
+                - generic [ref=f1e346]:
+                  - generic: Clients
+                  - generic: "4"
+              - table [ref=f1e347]:
+                - rowgroup [ref=f1e348]:
+                  - row [ref=f1e349]:
+                    - cell "CAD" [ref=f1e350]
+                    - cell "1" [ref=f1e352]
+                    - cell "25%" [ref=f1e353]
+                  - row [ref=f1e354]:
+                    - cell "Multiple Depts" [ref=f1e355]
+                    - cell "3" [ref=f1e357]
+                    - cell "75%" [ref=f1e358]
+                - rowgroup [ref=f1e359]:
+                  - row [ref=f1e360]:
+                    - cell "Total" [ref=f1e361]
+                    - cell "4" [ref=f1e362]
+                    - cell "100%" [ref=f1e363]
+          - generic [ref=f1e366]:
+            - heading "Client Acquisition Channel" [level=6] [ref=f1e367]
+            - generic [ref=f1e368]:
+              - img [ref=f1e371]:
+                - generic [ref=f1e379]:
+                  - generic: Clients
+                  - generic: "4"
+              - table [ref=f1e380]:
+                - rowgroup [ref=f1e381]:
+                  - row [ref=f1e382]:
+                    - cell "Email" [ref=f1e383]
+                    - cell "2" [ref=f1e385]
+                    - cell "50%" [ref=f1e386]
+                  - row [ref=f1e387]:
+                    - cell "Telephone" [ref=f1e388]
+                    - cell "1" [ref=f1e390]
+                    - cell "25%" [ref=f1e391]
+                  - row [ref=f1e392]:
+                    - cell "Walk-in" [ref=f1e393]
+                    - cell "1" [ref=f1e395]
+                    - cell "25%" [ref=f1e396]
+                - rowgroup [ref=f1e397]:
+                  - row [ref=f1e398]:
+                    - cell "Total" [ref=f1e399]
+                    - cell "4" [ref=f1e400]
+                    - cell "100%" [ref=f1e401]
+        - generic [ref=f1e402]:
+          - generic [ref=f1e405]:
+            - heading "Number of Client — 2026 vs 2025" [level=6] [ref=f1e406]
+            - table [ref=f1e407]:
+              - rowgroup [ref=f1e408]:
+                - row [ref=f1e409]:
+                  - columnheader "Department" [ref=f1e410]
+                  - columnheader "2026" [ref=f1e411]
+                  - columnheader "2025" [ref=f1e412]
+                  - columnheader "Change" [ref=f1e413]
+              - rowgroup [ref=f1e414]:
+                - row [ref=f1e415]:
+                  - cell "CAD" [ref=f1e416]
+                  - cell "1" [ref=f1e417]
+                  - cell "0" [ref=f1e418]
+                  - cell "-" [ref=f1e419]
+                - row [ref=f1e420]:
+                  - cell "Multiple Depts" [ref=f1e421]
+                  - cell "3" [ref=f1e422]
+                  - cell "0" [ref=f1e423]
+                  - cell "-" [ref=f1e424]
+              - rowgroup [ref=f1e425]:
+                - row [ref=f1e426]:
+                  - cell "Total" [ref=f1e427]
+                  - cell "4" [ref=f1e428]
+                  - cell "0" [ref=f1e429]
+                  - cell "-" [ref=f1e430]
+            - generic [ref=f1e431]: "Net change vs 2025: +4 clients"
+            - generic [ref=f1e432]: Clients with at least one ticket enquired in the year.
+          - generic [ref=f1e435]:
+            - heading "Top 5 Customers by Revenue" [level=6] [ref=f1e436]
+            - table [ref=f1e437]:
+              - rowgroup [ref=f1e438]:
+                - row [ref=f1e439]:
+                  - columnheader "#" [ref=f1e440]
+                  - columnheader "Customer" [ref=f1e441]
+                  - columnheader "Revenue (RM)" [ref=f1e442]
+              - rowgroup [ref=f1e443]:
+                - row [ref=f1e444]:
+                  - cell "No invoiced revenue for the selected filters." [ref=f1e445]
+            - link "View All Customers" [ref=f1e447] [cursor=pointer]:
+              - /url: https://jtc-demo.zetasbapp.com/client-management/clients
+          - generic [ref=f1e452]:
+            - heading "Performance by PIC" [level=6] [ref=f1e453]
+            - table [ref=f1e454]:
+              - rowgroup [ref=f1e455]:
+                - row [ref=f1e456]:
+                  - columnheader "PIC" [ref=f1e457]
+                  - columnheader "Completed" [ref=f1e458]
+                  - columnheader "Open" [ref=f1e459]
+                  - columnheader "Overdue" [ref=f1e460]
+              - rowgroup [ref=f1e461]:
+                - row [ref=f1e462]:
+                  - cell "JD john deo" [ref=f1e463]:
+                    - generic [ref=f1e464]:
+                      - generic [ref=f1e465]: JD
+                      - generic [ref=f1e466]: john deo
+                  - cell "0" [ref=f1e467]
+                  - cell "24" [ref=f1e468]
+                  - cell "6" [ref=f1e469]
+                - row [ref=f1e470]:
+                  - cell "JA JTC Admin" [ref=f1e471]:
+                    - generic [ref=f1e472]:
+                      - generic [ref=f1e473]: JA
+                      - generic [ref=f1e474]: JTC Admin
+                  - cell "0" [ref=f1e475]
+                  - cell "3" [ref=f1e476]
+                  - cell "1" [ref=f1e477]
+                - row [ref=f1e478]:
+                  - cell "QM Quinn Mcdowell" [ref=f1e479]:
+                    - generic [ref=f1e480]:
+                      - generic [ref=f1e481]: QM
+                      - generic [ref=f1e482]: Quinn Mcdowell
+                  - cell "0" [ref=f1e483]
+                  - cell "1" [ref=f1e484]
+                  - cell "0" [ref=f1e485]
+                - row [ref=f1e486]:
+                  - cell "AD Abra Delgado" [ref=f1e487]:
+                    - generic [ref=f1e488]:
+                      - generic [ref=f1e489]: AD
+                      - generic [ref=f1e490]: Abra Delgado
+                  - cell "0" [ref=f1e491]
+                  - cell "1" [ref=f1e492]
+                  - cell "1" [ref=f1e493]
+                - row [ref=f1e494]:
+                  - cell "PB Phyllis Berg" [ref=f1e495]:
+                    - generic [ref=f1e496]:
+                      - generic [ref=f1e497]: PB
+                      - generic [ref=f1e498]: Phyllis Berg
+                  - cell "0" [ref=f1e499]
+                  - cell "1" [ref=f1e500]
+                  - cell "0" [ref=f1e501]
+            - generic [ref=f1e502]: Completed within the selected date range; Open and Overdue are current.
+        - generic [ref=f1e504]:
+          - heading "Key Performance Indicators" [level=6] [ref=f1e505]
+          - generic [ref=f1e506]:
+            - generic [ref=f1e507]:
+              - generic [ref=f1e508]: Revenue Growth
+              - generic [ref=f1e509]: N/A
+              - generic [ref=f1e518]: vs previous period
+            - generic [ref=f1e519]:
+              - generic [ref=f1e520]: Gross Profit Margin
+              - generic [ref=f1e521]: N/A
+              - generic [ref=f1e523]: No cost data yet
+            - generic [ref=f1e524]:
+              - generic [ref=f1e525]: Net Profit Margin
+              - generic [ref=f1e526]: N/A
+              - generic [ref=f1e528]: No cost data yet
+            - generic [ref=f1e529]:
+              - generic [ref=f1e530]: Collection Rate
+              - generic [ref=f1e531]: N/A
+              - generic [ref=f1e538]: of invoiced amount received
+            - generic [ref=f1e539]:
+              - generic [ref=f1e540]: Customer Retention
+              - generic [ref=f1e541]: N/A
+              - generic [ref=f1e543]: 2025 clients active in 2026
+      - contentinfo [ref=f1e544]:
+        - paragraph [ref=f1e548]: Copyright 2026 © JTC ERP & CRM theme by pixelstrap
+  - generic [ref=f1e551]:
+    - generic [ref=f1e552] [cursor=pointer]
+    - generic [ref=f1e553]:
+      - generic [ref=f1e554] [cursor=pointer]
+      - generic [ref=f1e556] [cursor=pointer]
+      - generic [ref=f1e558] [cursor=pointer]: "17"
+      - generic [ref=f1e561] [cursor=pointer]: "52"
+      - generic [ref=f1e564] [cursor=pointer]: "98"
+      - generic [ref=f1e567] [cursor=pointer]: "5"
+      - generic [ref=f1e570] [cursor=pointer]: "1"
+    - generic [ref=f1e573]:
+      - generic [ref=f1e574] [cursor=pointer]
+      - generic [ref=f1e575] [cursor=pointer]
+      - generic [ref=f1e576] [cursor=pointer]
+      - generic [ref=f1e578] [cursor=pointer]
+      - generic [ref=f1e580] [cursor=pointer]:
+        - generic [ref=f1e581]: "3"
+        - generic [ref=f1e582]: GET /dashboard/executive
+      - generic [ref=f1e583] [cursor=pointer]: 208ms
+      - generic [ref=f1e585] [cursor=pointer]: 4MB
+      - generic [ref=f1e587] [cursor=pointer]: 12.x
