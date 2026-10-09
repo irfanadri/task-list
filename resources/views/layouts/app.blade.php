@@ -1,13 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>@yield('title')</title>
+  <title>Laravel 10 Task List App</title>
+  @yield('styles')
 </head>
+
 <body>
-    <main>
-        @yield('content')
-    </main>
+  <h1>@yield('title')</h1>
+  <div>
+    @if (session('success'))
+        <div> {{ session('success') }}</div>
+    @endif
+    @yield('content')
+  </div>
 </body>
+
 </html>
