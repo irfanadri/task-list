@@ -34,7 +34,7 @@ Route::post('/tasks', function (Request $request) {
     $task = new Task;
     $task->title = $data['title'];
     $task->description = $data['description'];
-    $task->long_description = $data['Long_description'];
+    $task->long_description = $data['long_description'];
 
     $task->save();
 
